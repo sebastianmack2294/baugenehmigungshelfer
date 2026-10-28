@@ -1,0 +1,145 @@
+{
+ "https://bauportal.nrw/glossary-term/189": {
+  "changes": [],
+  "last_checked": "2026-10-28T09:37+01:00",
+  "status": "neu",
+  "hash": "f4b5bab351e97079f87d62225b08b16609e24c1e2dbbe3bb1dfac96092003557",
+  "first_seen": "2026-10-28T09:37+01:00"
+ },
+ "https://bravors.brandenburg.de/gesetze/bbgbo_2016#6": {
+  "changes": [],
+  "last_checked": "2026-10-28T09:37+01:00",
+  "status": "neu",
+  "hash": "540a802b21e970bc8b89d48388e055b057270356091307d05f652e7ff17df352",
+  "first_seen": "2026-10-28T09:37+01:00"
+ },
+ "https://bravors.brandenburg.de/gesetze/bbgbo_2016#64": {
+  "changes": [],
+  "last_checked": "2026-10-28T09:37+01:00",
+  "status": "neu",
+  "hash": "540a802b21e970bc8b89d48388e055b057270356091307d05f652e7ff17df352",
+  "first_seen": "2026-10-28T09:37+01:00"
+ },
+ "https://gesetze.berlin.de/perma?j=BauO_BE": {
+  "changes": [],
+  "last_checked": "2026-10-28T09:37+01:00",
+  "status": "fehler",
+  "error": "<urlopen error timed out>"
+ },
+ "https://landesrecht.rlp.de/bsrp/document/jlr-BauORPrahmen": {
+  "changes": [],
+  "last_checked": "2026-10-28T09:37+01:00",
+  "status": "fehler",
+  "error": "<urlopen error timed out>"
+ },
+ "https://landesrecht.thueringen.de/bsth/document/jlr-BauOTH2024rahmen": {
+  "changes": [],
+  "last_checked": "2026-10-28T09:37+01:00",
+  "status": "fehler",
+  "error": "<urlopen error timed out>"
+ },
+ "https://recht.nrw.de/lrgv/gesetz/01092026-landesbauordnung-2018-bauo-nrw-2018/?suchbegriff=garagen#ss-62-verfahrensfreie-bauvorhaben-beseitigung-von-anlagen": {
+  "changes": [],
+  "last_checked": "2026-10-28T09:37+01:00",
+  "status": "neu",
+  "hash": "82d2c28e19a8537d5d408e9364e2161eb403701d5dc13330c55d219738ad64f4",
+  "first_seen": "2026-10-28T09:37+01:00"
+ },
+ "https://recht.saarland.de/bssl/document/jlr-BauOSL2004rahmen": {
+  "changes": [],
+  "last_checked": "2026-10-28T09:37+01:00",
+  "status": "fehler",
+  "error": "<urlopen error timed out>"
+ },
+ "https://voris.wolterskluwer-online.de/browse/document/ac680a18-a0da-381f-b48c-3913ddd3a00a": {
+  "changes": [],
+  "last_checked": "2026-10-28T09:37+01:00",
+  "status": "neu",
+  "hash": "a54b11ac06dc4223f1ed81d815fd5144da4d57c0ecc3be98aaac12a768c57084",
+  "first_seen": "2026-10-28T09:37+01:00"
+ },
+ "https://voris.wolterskluwer-online.de/browse/document/e807db8f-7202-30e1-a88b-8f1ff76cf135": {
+  "changes": [],
+  "last_checked": "2026-10-28T09:37+01:00",
+  "status": "neu",
+  "hash": "78c38a975e0bb030def89ea637343432235a507064d1e92312b25ed2e65d23d8",
+  "first_seen": "2026-10-28T09:37+01:00"
+ },
+ "https://www.gesetzblatt.bremen.de/fastmedia/218/2024_06_25_GBl_Nr_0060_signed.pdf": {
+  "changes": [],
+  "last_checked": "2026-10-28T09:37+01:00",
+  "status": "fehler",
+  "error": "HTTP Error 403: Forbidden"
+ },
+ "https://www.gesetze-bayern.de/Content/Document/BayBO-57": {
+  "changes": [],
+  "last_checked": "2026-10-28T09:37+01:00",
+  "status": "neu",
+  "hash": "b358672e40a8168f98b9e87d4d5960024bbdeab974d3d4f7912e6a406e17b8d1",
+  "first_seen": "2026-10-28T09:37+01:00"
+ },
+ "https://www.gesetze-bayern.de/Content/Document/BayBO-6": {
+  "changes": [],
+  "last_checked": "2026-10-28T09:37+01:00",
+  "status": "neu",
+  "hash": "834624ff5446be33e820ce01cc9ecb695f3be1c0dbb37b25d6d03a23ed39c0aa",
+  "first_seen": "2026-10-28T09:37+01:00"
+ },
+ "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-BauOSH2024pP6": {
+  "changes": [],
+  "last_checked": "2026-10-28T09:37+01:00",
+  "status": "fehler",
+  "error": "<urlopen error timed out>"
+ },
+ "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-BauOSH2024pP61": {
+  "changes": [],
+  "last_checked": "2026-10-28T09:37+01:00",
+  "status": "fehler",
+  "error": "<urlopen error timed out>"
+ },
+ "https://www.hamburg.de/resource/blob/1120174/a1f3778eb712e7a95605fbc6872df915/hamburgische-bauordnung-hbauo-2025-nichtamtliche-lesefassung-data.pdf": {
+  "changes": [],
+  "last_checked": "2026-10-28T09:37+01:00",
+  "status": "neu",
+  "hash": "47fb884f963cf99c6173bc9585431bd82948b630111baea2043574b2048f59cb",
+  "first_seen": "2026-10-28T09:37+01:00"
+ },
+ "https://www.landesrecht-mv.de/bsmv/document/jlr-BauOMV2015pP6": {
+  "changes": [],
+  "last_checked": "2026-10-28T09:37+01:00",
+  "status": "fehler",
+  "error": "<urlopen error timed out>"
+ },
+ "https://www.landesrecht-mv.de/bsmv/document/jlr-BauOMV2015pP61": {
+  "changes": [],
+  "last_checked": "2026-10-28T09:37+01:00",
+  "status": "fehler",
+  "error": "<urlopen error timed out>"
+ },
+ "https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-BauOST2013rahmen": {
+  "changes": [],
+  "last_checked": "2026-10-28T09:37+01:00",
+  "status": "fehler",
+  "error": "<urlopen error timed out>"
+ },
+ "https://www.landtag-bw.de/files/live/sites/LTBW/files/dokumente/gesetzblaetter/2026/GBl2026044.pdf": {
+  "changes": [],
+  "last_checked": "2026-10-28T09:37+01:00",
+  "status": "neu",
+  "hash": "2b530e779eecbac1221f1379a57a8712aa2e58aa8f2b73cf7c45e51102ea641c",
+  "first_seen": "2026-10-28T09:37+01:00"
+ },
+ "https://www.revosax.sachsen.de/vorschrift/1779": {
+  "changes": [],
+  "last_checked": "2026-10-28T09:37+01:00",
+  "status": "neu",
+  "hash": "fde504eebaf2526cbd4c494a85e08a1797e692b86d7b7dd19e4b2518a5bda066",
+  "first_seen": "2026-10-28T09:37+01:00"
+ },
+ "https://www.rv.hessenrecht.hessen.de/perma?j=BauO_HE": {
+  "changes": [],
+  "last_checked": "2026-10-28T09:37+01:00",
+  "status": "fehler",
+  "error": "<urlopen error timed out>"
+ }
+}
