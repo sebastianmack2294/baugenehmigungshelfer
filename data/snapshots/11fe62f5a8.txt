@@ -1,37 +1,35 @@
 REVOSax Landesrecht Sachsen
 - SächsBO
-Navigation
-Inhalt
-Übersicht
-Kontakt
-Impressum
-eSignatur
-Revosax
+Zur Portalnavigation
+Zum Hauptinhalt
+Zum Footer-Bereich
+Suchbegriff
+Suche starten
+Portal:
+REVOSax – Landesrecht Sachsen
+REVOSax – Landesrecht Sachsen
+Portalnavigation
 REVOSax
-REVOSax - Recht und Vorschriftenverwaltung Sachsen
-Navigation
-sachsen.de
-REVOSax
-Einfache Suche
 Vorschrift
 Aktuelle Fassung
 Normenhistorie
 Historische Fassungen
-26.06.2004 - 31.07.2008
-01.08.2008 - 27.12.2009
-28.12.2009 - 04.06.2010
-05.06.2010 - 28.10.2011
-29.10.2011 - 29.02.2012
-01.03.2012 - 30.04.2014
-01.05.2014 - 31.12.2015
-01.01.2016 - 28.02.2017
-01.03.2017 - 24.11.2017
-25.11.2017 - 20.12.2018
-21.12.2018 - 12.05.2021
-13.05.2021 - 07.06.2022
-08.06.2022 - 31.12.2022
-01.01.2023 - 18.03.2024
+26.06.2004 – 31.07.2008
+01.08.2008 – 27.12.2009
+28.12.2009 – 04.06.2010
+05.06.2010 – 28.10.2011
+29.10.2011 – 29.02.2012
+01.03.2012 – 30.04.2014
+01.05.2014 – 31.12.2015
+01.01.2016 – 28.02.2017
+01.03.2017 – 24.11.2017
+25.11.2017 – 20.12.2018
+21.12.2018 – 12.05.2021
+13.05.2021 – 07.06.2022
+08.06.2022 – 31.12.2022
+01.01.2023 – 18.03.2024
 19.03.2024
+Hauptinhalt
 Sächsische Bauordnung
 Vollzitat: Sächsische Bauordnung in der Fassung der Bekanntmachung vom 11. Mai 2016 (SächsGVBl. S. 186), die zuletzt durch Artikel 1 des Gesetzes vom 1. März 2024 (SächsGVBl. S. 169) geändert worden ist
 Bekanntmachung
@@ -2103,8 +2101,6 @@ Gesetz vom 27. Oktober 2017 (SächsGVBl. S. 588) und geändert durch Gesetz vom 
 53
 § 90 geändert durch
 Gesetz vom 27. Oktober 2017 (SächsGVBl. S. 588)
-zum Seitenanfang
-Marginalspalte
 Verweis auf Bundesgesetze
 Fundstelle und systematische Gliederungsnummer
 SächsGVBl. 2016 Nr. 6, S. 186
@@ -2120,18 +2116,39 @@ Hilfe
 Hilfe zum Vorschriftentext
 Fragen und Antworten
 Barrierefreiheit
+Footer-Bereich
+Herausgeber
 Herausgeber
 Sächsische Staatskanzlei
+01095
+Dresden
+Telefon:
++49 351 564-0
+E-Mail:
+info@sk.sachsen.de
+Service
+Service
+Hilfe
+Fragen und Antworten
+Abkürzungsverzeichnis
+Barrierefreiheit
+Kontakt
+Impressum
+Datenschutz
+Verwandte Portale
 Verwandte Portale
 Medienservice
 Publikationen
 Amt24
 FÖMISAX Fördermitteldatenbank
-Newsletter
 Karriereportal
 EDAS
+Projektentwicklung
+Projektentwicklung
+Ein Service der Sächsischen Staatsregierung in Kooperation mit der:
+SV SAXONIA Verlag GmbH
 Quelle: REVOSax
 https://www.revosax.sachsen.de/vorschrift/1779
 Stand vom
-08.11.2026
-Herausgeber: Sächsische Staatskanzlei http://www.sk.sachsen.de/
+09.11.2026
+Herausgeber: Sächsische Staatskanzlei https://www.sk.sachsen.de/
