@@ -246,7 +246,7 @@ nachfolgenden Tatbestände erfüllen:
 2. bauliche Anlagen mit einer Höhe von mehr als 30 m, ausgenommen Anlagen, die in den
 Anwendungsbereich der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des
 Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren
-Quellen (ABl. EU 2018 Nr . L 328 S. 82) fallen,
+Quellen (ABl. EU 2018 Nr. L 328 S. 82) fallen,
 3. Gebäude mit mehr als 1600 m² Grundfläche des Geschosses mit der größten
 Ausdehnung, ausgenommen Wohngebäude und Garagen sowie Räume und Gebäude für
 Abstellplätze für Fahrräder,
